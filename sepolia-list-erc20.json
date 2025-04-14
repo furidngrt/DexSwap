@@ -1,0 +1,24 @@
+{
+  "name": "Sepolia",
+  "keywords": [
+    "sepolia",
+    "eth",
+    "defi"
+  ],
+  "timestamp": "2025-05-05T05:05:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xDE3327a1fB9A042A39d344CbeCcd591C49975eDC",
+      "name": "TokenFactory",
+      "symbol": "TF",
+      "logoURI": "#",
+      "decimals": 18
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 7
+  }
+}
