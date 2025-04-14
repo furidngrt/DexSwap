@@ -10,7 +10,7 @@
     {
       "chainId": 11155111,
       "address": "0xDE3327a1fB9A042A39d344CbeCcd591C49975eDC",
-      "name": "TokenFactory",
+      "name": "Token Factory",
       "symbol": "TF",
       "logoURI": "https://raw.githubusercontent.com/furidngrt/TokenFactory/refs/heads/master/public/favicon.png",
       "decimals": 18
