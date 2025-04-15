@@ -1,0 +1,24 @@
+{
+  "name": "MegaETH",
+  "keywords": [
+    "MegaETH",
+    "Mega",
+    "defi"
+  ],
+  "timestamp": "2025-05-05T05:05:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 6342,
+      "address": "0xF50403C622C72800C15BEE705f01fb599b590c90",
+      "name": "ECLIPSE",
+      "symbol": "ES",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/es.png",
+      "decimals": 18
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 7
+  }
+}
