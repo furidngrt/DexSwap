@@ -9,6 +9,14 @@
   "tokens": [
     {
       "chainId": 6342,
+      "address": "0xCcA39C9FefF0a8CEb448dB10FF186D2532A41324",
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/usdc.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 6342,
       "address": "0xF50403C622C72800C15BEE705f01fb599b590c90",
       "name": "ECLIPSE",
       "symbol": "ES",
