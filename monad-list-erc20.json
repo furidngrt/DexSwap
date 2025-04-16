@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 10143,
-      "address": "#",
+      "address": "0x9352e90374f273064D8E48123f1d99333E2576B8",
       "name": "USDC",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/usdc.png",
@@ -17,15 +17,15 @@
     },
     {
       "chainId": 10143,
-      "address": "#",
+      "address": "0xadD0002DdcED34Cef7Cb50241a97b01D3DC860Fb",
       "name": "ECLIPSE",
-      "symbol": "ES",
+      "symbol": "ECLIPSE",
       "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/es.png",
       "decimals": 18
     },
     {
       "chainId": 10143,
-      "address": "#",
+      "address": "0x700d9f17e6A75E0008E5cEe4e1A9d805f90DC142",
       "name": "Mega Token",
       "symbol": "MEGA",
       "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/mega.png",
