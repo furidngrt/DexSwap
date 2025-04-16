@@ -14,6 +14,14 @@
       "symbol": "ES",
       "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/es.png",
       "decimals": 18
+    },
+    {
+      "chainId": 6342,
+      "address": "0x180285ca8e03EE548404B95542d68F13617b7436",
+      "name": "Mega Token",
+      "symbol": "MEGA",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/mega.png",
+      "decimals": 18
     }
   ],
   "version": {
