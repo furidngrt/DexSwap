@@ -12,7 +12,7 @@
       "address": "0x3c495900dcbeab8b11a2c899c79660a5710c2241",
       "name": "USDT",
       "symbol": "USDT",
-      "logoURI": "#",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/0g-Labs/usdt.png",
       "decimals": 18
     },
     {
