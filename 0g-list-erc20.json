@@ -25,10 +25,10 @@
     },
     {
       "chainId": 80087,
-      "address": "",
-      "name": "",
-      "symbol": "",
-      "logoURI": "",
+      "address": "0xb99ff5d9d4a1156696370c0c64fc6a13072fd411",
+      "name": "Token Factory",
+      "symbol": "TF",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/0g-Labs/tf.png",
       "decimals": 18
     }
   ],
