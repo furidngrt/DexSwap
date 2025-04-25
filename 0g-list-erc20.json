@@ -9,9 +9,9 @@
   "tokens": [
     {
       "chainId": 80087,
-      "address": "#",
-      "name": "USDC",
-      "symbol": "USDC",
+      "address": "0x3c495900dcbeab8b11a2c899c79660a5710c2241",
+      "name": "USDT",
+      "symbol": "USDT",
       "logoURI": "#",
       "decimals": 18
     },
