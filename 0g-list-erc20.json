@@ -17,10 +17,10 @@
     },
     {
       "chainId": 80087,
-      "address": "#",
-      "name": "",
-      "symbol": "",
-      "logoURI": "",
+      "address": "0x590cbb1c27079e290eb763a8507a888a90938399",
+      "name": "Deep Protocol",
+      "symbol": "DEEP",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/0g-Labs/Deep.png",
       "decimals": 18
     },
     {
