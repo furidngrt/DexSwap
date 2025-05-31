@@ -17,6 +17,14 @@
     },
     {
       "chainId": 10143,
+      "address": "0x11d860F8f4bcb530EaD90C54d2e5FB1e0C437DDB",
+      "name": "Max Token",
+      "symbol": "MAX",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/Monad/max.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
       "address": "0xBA949b953Ce501A1a988b3cf45E43ae7997C6B0e",
       "name": "Green Monad",
       "symbol": "GMD",
