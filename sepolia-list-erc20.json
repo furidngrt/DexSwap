@@ -9,6 +9,14 @@
   "tokens": [
     {
       "chainId": 11155111,
+      "address": "0x0767D7ACce88B2769EbAB7Cf4F66FFd092767b46",
+      "name": "Smart AI",
+      "symbol": "SAI",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/Monad/SAI.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 11155111,
       "address": "0xDE3327a1fB9A042A39d344CbeCcd591C49975eDC",
       "name": "Token Factory",
       "symbol": "TF",
