@@ -12,7 +12,15 @@
       "address": "0xDE3327a1fB9A042A39d344CbeCcd591C49975eDC",
       "name": "Token Factory",
       "symbol": "TF",
-      "logoURI": "https://raw.githubusercontent.com/furidngrt/TokenFactory/refs/heads/master/public/favicon.png",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/0g-Labs/tf.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://etherscan.io/token/images/tethernew_32.svg",
       "decimals": 18
     }
   ],
