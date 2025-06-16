@@ -9,6 +9,14 @@
   "tokens": [
     {
       "chainId": 10143,
+      "address": "0xCb38D725B08A8c7FE1c88576e08809A31946f85A",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
       "address": "0x9352e90374f273064D8E48123f1d99333E2576B8",
       "name": "USDC",
       "symbol": "USDC",
