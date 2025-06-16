@@ -13,7 +13,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/usdt_qpvg08.png",
-      "decimals": 18
+      "decimals": 6
     },
     {
       "chainId": 10143,
