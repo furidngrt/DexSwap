@@ -47,14 +47,6 @@
       "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/es.png",
       "decimals": 18
     },
-    {
-      "chainId": 10143,
-      "address": "0x700d9f17e6A75E0008E5cEe4e1A9d805f90DC142",
-      "name": "Mega Token",
-      "symbol": "MEGA",
-      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/mega.png",
-      "decimals": 18
-    }
   ],
   "version": {
     "major": 1,
