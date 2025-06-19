@@ -46,7 +46,7 @@
       "symbol": "ECLIPSE",
       "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/es.png",
       "decimals": 18
-    },
+    }
   ],
   "version": {
     "major": 1,
