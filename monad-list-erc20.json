@@ -33,14 +33,6 @@
     },
     {
       "chainId": 10143,
-      "address": "0xBA949b953Ce501A1a988b3cf45E43ae7997C6B0e",
-      "name": "Green Monad",
-      "symbol": "GMD",
-      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/Monad/gmd.png",
-      "decimals": 18
-    },
-    {
-      "chainId": 10143,
       "address": "0xe34ca093a8ADA1a37E36CCB6331c935378d4B38D",
       "name": "Factory Token",
       "symbol": "FCTRY",
