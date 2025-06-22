@@ -42,9 +42,9 @@
     {
       "chainId": 10143,
       "address": "0x11d860F8f4bcb530EaD90C54d2e5FB1e0C437DDB",
-      "name": "Max Token",
+      "name": "Factory Max",
       "symbol": "MAX",
-      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/Monad/max.png",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/Monad/FactoryMax.png",
       "decimals": 18
     },
     {
