@@ -50,7 +50,7 @@
     {
       "chainId": 10143,
       "address": "0xe34ca093a8ADA1a37E36CCB6331c935378d4B38D",
-      "name": "Factory Token",
+      "name": "Factory",
       "symbol": "FCTRY",
       "logoURI": "https://raw.githubusercontent.com/furidngrt/TokenFactory/refs/heads/master/public/apple-icon.png",
       "decimals": 18
@@ -58,9 +58,9 @@
     {
       "chainId": 10143,
       "address": "0xadD0002DdcED34Cef7Cb50241a97b01D3DC860Fb",
-      "name": "ECLIPSE",
+      "name": "Eclipse",
       "symbol": "ECLIPSE",
-      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/es.png",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/image_1750571882814_osg0a2.png",
       "decimals": 18
     }
   ],
