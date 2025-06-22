@@ -33,6 +33,14 @@
     },
     {
       "chainId": 10143,
+      "address": "0xe22512a887179718F6F28b8599154db3Bea8100b",
+      "name": "Moyaki",
+      "symbol": "YAKI",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/yaki_wa75gy.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
       "address": "0x11d860F8f4bcb530EaD90C54d2e5FB1e0C437DDB",
       "name": "Max Token",
       "symbol": "MAX",
