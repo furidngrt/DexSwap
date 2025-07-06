@@ -9,6 +9,14 @@
   "tokens": [
     {
       "chainId": 10143,
+      "address": "0xdAA587d25Cd67E18F7f041381B0c3c5c61dd496B",
+      "name": "USDm",
+      "symbol": "USD Monad",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/image_1751771554115_j92s7t.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
       "address": "0xd0B8e0f38ca8a81ab94aE2D462235e2D377F6A3a",
       "name": "Bridged USDC",
       "symbol": "USDC.e",
